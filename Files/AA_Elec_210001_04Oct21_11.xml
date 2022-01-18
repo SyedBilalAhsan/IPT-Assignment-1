@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Votes>
+  <Vote>
+    <NIC>40999-0114454-7</NIC>
+    <Position>Vice President</Position>
+    <CandidateID>k040003</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>40999-0114454-7</NIC>
+    <Position>President</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+</Votes>

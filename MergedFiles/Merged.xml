@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Votes>
+  <Vote>
+    <NIC>42301-1234567-8</NIC>
+    <Position>Vice President</Position>
+    <CandidateID>k071241</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42301-1234567-8</NIC>
+    <Position>President</Position>
+    <CandidateID>k050004</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42101-0113309-1</NIC>
+    <Position>Vice President</Position>
+    <CandidateID>k040003</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42101-0113309-1</NIC>
+    <Position>President</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42220-0113121-6</NIC>
+    <Position>General Secretary</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42220-0113121-6</NIC>
+    <Position>President</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42201-3456789-0</NIC>
+    <Position>General Secretary</Position>
+    <CandidateID>k030002</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>40999-0114454-7</NIC>
+    <Position>Vice President</Position>
+    <CandidateID>k040003</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>40999-0114454-7</NIC>
+    <Position>President</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42101-0223342-5</NIC>
+    <Position>President</Position>
+    <CandidateID>k030001</CandidateID>
+  </Vote>
+  <Vote>
+    <NIC>42101-0223342-5</NIC>
+    <Position>Vice President</Position>
+    <CandidateID>k040003</CandidateID>
+  </Vote>
+  <Votes>
+    <Vote>
+      <NIC>42201-2345678-9</NIC>
+      <Position>Vice President</Position>
+      <CandidateID>k040003</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>42201-2345678-9</NIC>
+      <Position>President</Position>
+      <CandidateID>k050004</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>42201-0193380-4</NIC>
+      <Position>Vice President</Position>
+      <CandidateID>k040003</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>42201-0193380-4</NIC>
+      <Position>President</Position>
+      <CandidateID>k073000</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>42481-0224567-4</NIC>
+      <Position>Vice President</Position>
+      <CandidateID>k071241</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>43909-0123487-1</NIC>
+      <Position>Vice President</Position>
+      <CandidateID>k040003</CandidateID>
+    </Vote>
+    <Vote>
+      <NIC>41303-9872234-1</NIC>
+      <Position>President</Position>
+      <CandidateID>k050004</CandidateID>
+    </Vote>
+  </Votes>
+</Votes>

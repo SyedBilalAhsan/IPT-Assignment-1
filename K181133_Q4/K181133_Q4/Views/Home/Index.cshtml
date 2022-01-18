@@ -1,0 +1,154 @@
+﻿@using K181133_Q4.Models
+@model IEnumerable<Details>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <style>
+
+        table {
+            width: 50%;
+            margin-left: 25%;
+            margin-top: 30px;
+        }
+
+        #records {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+            #records td, #records th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            #records tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            #records tr:hover {
+                background-color: #ddd;
+            }
+
+            #records th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #04AA6D;
+                color: black;
+            }
+            #para {
+                text-align:center;
+                font-weight:bold;
+                font-size:25px;
+
+            }
+    </style>
+
+    <div id="records">
+        <p id="para">Election Results</p>
+        <table>
+            <thead>
+                <tr>
+                    <th style="text-align:center;">President</th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <th scope="col">Candidate Name</th>
+                    <th scope="col">Votes</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (Details data in Model)
+                    {
+                        <tr>
+                            @if (data.Position == "President")
+                            {
+                                <td>@data.CandidateName</td>
+                                <td>@data.votes</td>
+                            }
+
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <div id="records">
+        <table>
+            <thead>
+                <tr>
+                    <th style="text-align:center; color:black">Vice President</th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <th scope="col">Candidate Name</th>
+                    <th scope="col">Votes</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (Details data in Model)
+                    {
+                        <tr>
+                            @if (data.Position == "Vice President")
+                            {
+                                <td>@data.CandidateName</td>
+                                <td>@data.votes</td>
+                            }
+
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+    <div id="records">
+    <table>
+        <thead>
+            <tr>
+                <th style="text-align:center; color:black">General Secretary</th>
+                <th></th>
+            </tr>
+            <tr>
+                <th scope="col">Candidate Name</th>
+                <th scope="col">Votes</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (Details data in Model)
+                {
+                    <tr>
+                        @if (data.Position == "General Secretary")
+                        {
+                            <td>@data.CandidateName</td>
+                            <td>@data.votes</td>
+                        }
+
+                    </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+    </div>
+   
+</body>
+</html>
+ <script type='text/javascript'>
+     setTimeout("location.reload();", 300000);
+</script>

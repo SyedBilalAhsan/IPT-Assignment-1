@@ -1,0 +1,11 @@
+C:\IPT Assignment\K181133_Q2\K181133_Q2\bin\Debug\K181133_Q2.exe.config
+C:\IPT Assignment\K181133_Q2\K181133_Q2\bin\Debug\K181133_Q2.exe
+C:\IPT Assignment\K181133_Q2\K181133_Q2\bin\Debug\K181133_Q2.pdb
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.csproj.AssemblyReference.cache
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.Properties.Resources.resources
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.csproj.GenerateResource.cache
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.csproj.CoreCompileInputs.cache
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.exe
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.pdb
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.Frm_Login.resources
+C:\IPT Assignment\K181133_Q2\K181133_Q2\obj\Debug\K181133_Q2.frm_VDetails.resources
